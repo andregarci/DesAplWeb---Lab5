@@ -1,8 +1,4 @@
-<%-- 
-    Document   : Editar
-    Created on : 22/04/2023, 09:55:09 PM
-    Author     : andga
---%>
+
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@ taglib prefix="sql" uri="http://java.sun.com/jsp/jstl/sql" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
